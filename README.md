@@ -6,14 +6,6 @@
 
 Build a React.js web app and sync to an AWS S3 repository
 
-## Like this project? ❤️
-
-Please consider:
-
-- [Buying me a coffee](https://www.buymeacoffee.com/jeanlescure) ☕
-- Supporting me on [Patreon](https://www.patreon.com/jeanlescure) 🏆
-- Starring this repo on [Github](https://github.com/jeanlescure/react-deploy-to-s3-action) 🌟
-
 ## Usage
 
 This action runs the equivalent of this oversimplified example:
